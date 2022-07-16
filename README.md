@@ -3,6 +3,10 @@
 # Using ReactJS.
 ### A replica of YouTube's page.
 
+![Home-Page](https://user-images.githubusercontent.com/71364588/179354701-2471a04f-4261-43c3-85a5-e023ae456179.png)
+
+![Search-Page](https://user-images.githubusercontent.com/71364588/179354706-e493e731-adec-4a83-9928-8b3f10a264e4.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
