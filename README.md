@@ -1,7 +1,7 @@
 # My_YouTube_Clone
 
 # Using ReactJS.
-### A replica of YouTube's page.
+### A replica of YouTube's Main Page and Search Page.
 
 ![Home-Page](https://user-images.githubusercontent.com/71364588/179354701-2471a04f-4261-43c3-85a5-e023ae456179.png)
 
